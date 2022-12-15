@@ -29,5 +29,6 @@ A classificação indicativa do jogo será de 8 anos, por conter cenas de luta e
 
 <br>
 <p><strong>Créditos</strong></p>
-
+<br>
+@github/Micael-lucas
 
